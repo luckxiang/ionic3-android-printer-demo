@@ -39,7 +39,7 @@ $ ionic cordova plugin add cordova-plugin-printer
 $ npm install --save @ionic-native/printer
 
 文件操作插件
-文件操作插件ionic自带的,无需安装
+
 
 ### 2.修改插件库和拷贝js包
 把libs目录拷贝到src目录下,打印需要的库就在这里边
