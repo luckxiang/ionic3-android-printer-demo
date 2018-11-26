@@ -38,7 +38,7 @@ $ npm install --save @ionic-native/android-permissions
 $ ionic cordova plugin add cordova-plugin-printer
 $ npm install --save @ionic-native/printer
 
-文件操作插件
+文件操作插件 当初文档写漏了,自己安装一下
 
 
 ### 2.修改插件库和拷贝js包
